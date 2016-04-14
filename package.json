@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/fixed-fix.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KoryNunn/fixed-fix/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/fixed-fix#readme"
 }
