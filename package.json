@@ -1,6 +1,6 @@
 {
   "name": "fixed-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "makes position fixed elements go generally in the right place in iOS safari",
   "main": "index.js",
   "scripts": {
